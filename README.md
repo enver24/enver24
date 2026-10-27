@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Enver 👋
 
-<!--
-**enver24/enver24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ICT student at **Western Sydney University**, majoring in **Cyber Security and Ethical Hacking**, based in Sydney.
 
-Here are some ideas to get you started:
+My path into tech started with hands-on IT support: setting up and troubleshooting computers, printers and networks. These days I'm building my development skills alongside my degree.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔨 Projects
+- **[EEZ Fitness](https://github.com/enver24/eez-fitness)**: a cross-platform fitness and nutrition-tracking app built with TypeScript, React Native (Expo) and Supabase *(in active development)*
+- **[Music Quiz Game](https://github.com/enver24/music-quiz-java)**: a Java quiz game built in Greenfoot for my Diploma of ICT
+
+### 🧰 Tech I use
+TypeScript · Java · SQL · React Native · Expo · Supabase · Git
+
+### 🎯 Looking for
+Entry-level or junior roles in **IT support, service desk, software development or cyber security**.
+
+### 📫 Get in touch
+- [LinkedIn](https://www.linkedin.com/in/enver-balabanel-27220a377/)
+- ebalabanel1@outlook.com
