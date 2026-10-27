@@ -15,5 +15,5 @@ TypeScript · Java · SQL · React Native · Expo · Supabase · Git
 Entry-level or junior roles in **IT support, service desk, software development or cyber security**.
 
 ### 📫 Get in touch
-- [LinkedIn](https://www.linkedin.com/in/enver-balabanel-27220a377/)
+- [LinkedIn](https://www.linkedin.com/in/enverbalabanel)
 - ebalabanel1@outlook.com
